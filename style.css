@@ -334,10 +334,10 @@ display: inline;
         margin-top: -4vw;
     }
     .bg{
-        background-image: url(birds.png);
+        background-image: url(img/birds.png);
         background-color: #f0f1a1;
         height: 720vw;
-        background-size: 130vw auto;
+        background-size: 130vw 180vw;
         margin-top: -16vw;
     }
     .about1{
