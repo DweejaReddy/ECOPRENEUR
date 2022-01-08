@@ -20,7 +20,7 @@
   data-aos-duration="2000">
     <a href="https://www.ecellvnit.org/" class="navbar-brand">
     <img class="d-none d-lg-block ml-3" src="img/ecell-black-logo.png" alt="ecell" width="150px">
-    <img class="d-sm d-lg-none ml-3" src="img/ecell-black-logo.png" alt="ecell" width="100px"></a>
+    <img class="d-sm d-lg-none ml-3" src="img/ecell-black-logo.png" alt="ecell" width="140px"></a>
     <button
       class="navbar-toggler"
       type="button"
