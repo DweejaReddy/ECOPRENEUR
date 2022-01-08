@@ -171,8 +171,6 @@ display: inline;
     height: 23vw;
 }
 .row1 {
-    /* display: flex;
-    flex-direction: row; */
     display: inline;
     margin-top: 3vw;
     justify-content: left;
@@ -263,7 +261,7 @@ display: inline;
         font-weight: 500;
         letter-spacing: 1px;
         margin-left: 40vw;
-        margin-top: -100vw;
+        margin-top: -90vw;
         font-family: 'Bebas Neue', cursive;
     }
     .subhead{
@@ -274,7 +272,7 @@ display: inline;
         padding-right: 1vw;
         margin-left: 40vw;
         margin-right: 5vw;
-        margin-top: -80vw;
+        margin-top: -70vw;
         font-weight: 600;
         font-family: 'Lato',sans-serif;
     }
@@ -283,19 +281,19 @@ display: inline;
         font-family: 'Lato',sans-serif;
         margin-left: 40vw;
         margin-right: 6vw;
-        margin-top: -50vw;
+        margin-top: -40vw;
         font-size: 3.7vw;
     }
     .btn1{
-        margin-left: 8vw;
+        margin-left: 15vw;
         border: 1.7px #316835 solid;
         color: #316835;
         font-weight: 900;
         border-radius: 8px;
-        margin-top: -2vw;
+        margin-top: 6vw;
     }
     .btn2{
-        margin-top: -2vw;
+        margin-top: 6vw;
         color: #fff;
         margin-left:2vw;
         font-weight: 800;
