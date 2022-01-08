@@ -95,12 +95,12 @@
 
       <section id="home_mob" class="d-block d-lg-none" style="margin-bottom: 85vw;">
         <div class="row align-items-center">
-        <div class="col-2"><img style="margin-top: 10vw;" width="140vw" height="270vh" src="img/eco.png" alt=""></div>
+        <div class="col-2"><img style="margin-top: 20vw;" width="140vw" height="280vh" src="img/eco.png" alt=""></div>
         <div class="eco">ECOPRENEUR</div>
         <div class="subhead py-1">SUSTAIN THE FUTURE WITH INNOVATION</div>
         <div class="para">It aims to incise the sharp minds of NITIANs to explore the world of <span style="font-weight: 900;">ENVIRONMENTAL ENTREPRENEURSHIP</span></div>
         <div class="text-center">
-        <a class="btn btn1 ml-5" href="#" target="_blank" role="button">Download Brochure</a>
+        <a class="btn btn1" href="#" target="_blank" role="button">Download Brochure</a>
         <a class="btn btn2" href="#" target="_blank" role="button">Register Now</a>
       </div>
     </div>
