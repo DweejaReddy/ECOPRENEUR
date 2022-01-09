@@ -1,5 +1,5 @@
 body{
-    background-image: url(img/homebg.jpg);
+    background-image: url('../img/homebg.jpg');
     background-repeat: no-repeat;
     background-size: 100vw 50vw;
     font-family: 'Lato',sans-serif;
@@ -109,7 +109,7 @@ display: inline;
     padding-top: 3vw;
 }
 .bg{
-    background-image: url(img/birds.png);
+    background-image: url('../img/birds.png');
     background-color: #f0f1a1;
     height: 170vw;
     background-size: 130vw auto;
@@ -250,7 +250,7 @@ display: inline;
     overflow-x: hidden;
   }
     body{
-        background-image: url(img/home_mob.png);
+        background-image: url('../img/home_mob.png');
         background-repeat: no-repeat;
         background-size: 100vw 100vh;
         font-family: 'Lato',sans-serif;
@@ -334,7 +334,7 @@ display: inline;
         margin-top: -4vw;
     }
     .bg{
-        background-image: url(img/birds.png);
+        background-image: url('../img/birds.png');
         background-color: #f0f1a1;
         height: 720vw;
         background-size: 130vw 180vw;
