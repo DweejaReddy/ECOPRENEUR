@@ -157,7 +157,8 @@ display: inline;
 .bord{
     border-right: 2px dashed #316835;
     position: relative;
-    right: 75.7vw;
+    /* right: 75.7vw; */
+    right: 87.5%;
     margin-bottom: -20vw;
     bottom: 8.8vw;
     height: 18vw;
@@ -165,7 +166,8 @@ display: inline;
 .bord1{
     border-right: 2px dashed #316835;
     position: relative;
-    right: 69.8vw;
+    /* right: 69.8vw; */
+    right: 78.5%;
     margin-bottom: -50vw;
     bottom: 11vw;
     height: 23vw;
