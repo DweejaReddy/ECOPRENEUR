@@ -76,6 +76,7 @@
             </div>
         </div>
         </div>
+     
 
         <!-- ASSOCIATION -->
         <div class="container about align-items-center my-5" style="height: 35vw;" >
