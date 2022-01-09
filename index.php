@@ -9,7 +9,7 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700&display=swap" rel="stylesheet">
@@ -24,7 +24,7 @@
         <div class="para">It aims to incise the sharp minds of NITIANs to explore the world of <span style="font-weight: 900;">ENVIRONMENTAL ENTREPRENEURSHIP</span></div>
         <div class="text-center">
         <a class="btn btn1" href="#" target="_blank" role="button">Download Brochure</a>
-        <a class="btn btn2" href="#" target="_blank" role="button">Register Now</a>
+        <a class="btn btn2" href="register.php" target="_blank" role="button">Register Now</a>
       </div>
     </section>
 
@@ -36,7 +36,7 @@
             <div class="col-4"><img style="background-color: #fff;border-radius: 20px;" src="img/logo.png" alt="" width="300px" ></div>
             <div class="col-6 text-left para1">It aims to incise the sharp minds of NITIANs to explore the world of <span style="font-weight: 900;">ENVIRONMENTAL ENTREPRENEURSHIP</span> by deducing a proper technical solution to an issue native to their institute's city and creating their own business model out of it. <br><br>Ecopreneur is chance to represent your NIT, it is an opportunity to solve a real world problem, a platform to represent a vision in front of notable people, a medium to win unimaginable prizes and recognition and a direction to maybe even get a fixed career path to follow out of the plan you create!</div>
             <a class="btn btn3 py-2 px-3 mr-3" href="#" target="_blank" role="button">Download Brochure</a>
-            <a class="btn btn4 px-4 py-2 mx-2 " href="#" target="_blank" role="button">Register Now</a>
+            <a class="btn btn4 px-4 py-2 mx-2 " href="register.php" target="_blank" role="button">Register Now</a>
           </div>
         </div>
 
@@ -101,7 +101,7 @@
         <div class="para">It aims to incise the sharp minds of NITIANs to explore the world of <span style="font-weight: 900;">ENVIRONMENTAL ENTREPRENEURSHIP</span></div>
         <div class="text-center">
         <a class="btn btn1" href="#" target="_blank" role="button">Download Brochure</a>
-        <a class="btn btn2" href="#" target="_blank" role="button">Register Now</a>
+        <a class="btn btn2" href="register.php" target="_blank" role="button">Register Now</a>
       </div>
     </div>
     </section>
@@ -114,7 +114,7 @@
             <div class="col text-center para1" style="font-size: 3.7vw;margin-top: 5vw;">It aims to incise the sharp minds of NITIANs to explore the world of <span style="font-weight: 900;">ENVIRONMENTAL ENTREPRENEURSHIP</span> by deducing a proper technical solution to an issue native to their institute's city and creating their own business model out of it. <br><br>Ecopreneur is chance to represent your NIT, it is an opportunity to solve a real world problem, a platform to represent a vision in front of notable people, a medium to win unimaginable prizes and recognition and a direction to maybe even get a fixed career path to follow out of the plan you create!</div>
             <div class="row text-center">
             <a class="btn btn3 py-2 px-5 my-4 mx-5 col" href="#" target="_blank" role="button">Download Brochure</a>
-            <a class="btn btn4 px-5 py-2 mx-5 col" href="#" target="_blank" role="button">Register Now</a>
+            <a class="btn btn4 px-5 py-2 mx-5 col" href="register.php" target="_blank" role="button">Register Now</a>
           </div>
         </div>
         </div>
