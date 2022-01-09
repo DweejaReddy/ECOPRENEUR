@@ -9,7 +9,7 @@
         <div class="para">It aims to incise the sharp minds of NITIANs to explore the world of <span style="font-weight: 900;">ENVIRONMENTAL ENTREPRENEURSHIP</span></div>
         <div class="text-center">
         <a class="btn btn1" data-aos="fade-right"
-  data-aos-duration="2000" href="#" target="_blank" role="button">Download Brochure</a>
+  data-aos-duration="2000" href="img/Ecopreneur_brochure.pdf" target="_blank" role="button">Download Brochure</a>
         <a class="btn btn2" href="register.php" data-aos="fade-left"
   data-aos-duration="2000" target="_blank" role="button">Register Now</a>
       </div>
@@ -27,7 +27,7 @@
             <div class="col-6 text-left para1" data-aos="fade-left"
   data-aos-duration="2000">It aims to incise the sharp minds of NITIANs to explore the world of <span style="font-weight: 900;">ENVIRONMENTAL ENTREPRENEURSHIP</span> by deducing a proper technical solution to an issue native to their institute's city and creating their own business model out of it. <br><br>Ecopreneur is chance to represent your NIT, it is an opportunity to solve a real world problem, a platform to represent a vision in front of notable people, a medium to win unimaginable prizes and recognition and a direction to maybe even get a fixed career path to follow out of the plan you create!</div>
             <a class="btn btn3 py-2 px-3 mr-3" data-aos="fade-left"
-  data-aos-duration="2000" href="#" target="_blank" role="button">Download Brochure</a>
+  data-aos-duration="2000" href="img/Ecopreneur_brochure.pdf" target="_blank" role="button">Download Brochure</a>
             <a class="btn btn4 px-4 py-2 mx-2 " data-aos="fade-left"
   data-aos-duration="2000" href="register.php" target="_blank" role="button">Register Now</a>
           </div>
@@ -104,7 +104,7 @@
         <div class="para">It aims to incise the sharp minds of NITIANs to explore the world of <span style="font-weight: 900;">ENVIRONMENTAL ENTREPRENEURSHIP</span></div>
         <div class="text-center">
         <a class="btn btn1" data-aos="fade-right"
-  data-aos-duration="2000" href="#" target="_blank" role="button">Download Brochure</a>
+  data-aos-duration="2000" href="img/Ecopreneur_brochure.pdf" target="_blank" role="button">Download Brochure</a>
         <a class="btn btn2" data-aos="fade-left"
   data-aos-duration="2000" href="register.php" target="_blank" role="button">Register Now</a>
       </div>
@@ -123,7 +123,7 @@
   data-aos-duration="2000" style="font-size: 3.7vw;margin-top: 5vw;">It aims to incise the sharp minds of NITIANs to explore the world of <span style="font-weight: 900;">ENVIRONMENTAL ENTREPRENEURSHIP</span> by deducing a proper technical solution to an issue native to their institute's city and creating their own business model out of it. <br><br>Ecopreneur is chance to represent your NIT, it is an opportunity to solve a real world problem, a platform to represent a vision in front of notable people, a medium to win unimaginable prizes and recognition and a direction to maybe even get a fixed career path to follow out of the plan you create!</div>
             <div class="row text-center">
             <a class="btn btn3 py-2 px-5 my-4 mx-5 col" data-aos="fade-right"
-  data-aos-duration="2000" href="#" target="_blank" role="button">Download Brochure</a>
+  data-aos-duration="2000" href="img/Ecopreneur_brochure.pdf" target="_blank" role="button">Download Brochure</a>
             <a class="btn btn4 px-5 py-2 mx-5 col" data-aos="fade-left"
   data-aos-duration="2000" href="register.php" target="_blank" role="button">Register Now</a>
           </div>
