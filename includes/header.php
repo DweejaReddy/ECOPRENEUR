@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
@@ -12,12 +11,11 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700&display=swap" rel="stylesheet">
     <title>Ecopreneur</title>
-</head>
 <body>
-    <nav id="mainNavbar" class="navbar navbar-light navbar-expand-lg py-0"data-aos="fade-down"
-  data-aos-duration="2000">
+    <nav id="mainNavbar" class="navbar navbar-light navbar-expand-lg py-0">
     <a href="https://www.ecellvnit.org/" class="navbar-brand">
     <img class="d-none d-lg-block ml-3" src="img/ecell-black-logo.png" alt="ecell" width="150px">
     <img class="d-sm d-lg-none ml-3" src="img/ecell-black-logo.png" alt="ecell" width="140px"></a>
@@ -68,5 +66,9 @@
   integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
   crossorigin="anonymous"
   ></script>
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+  AOS.init();
+</script>
 </body>
 </html>
