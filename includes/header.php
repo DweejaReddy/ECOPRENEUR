@@ -27,7 +27,7 @@
       aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navLinks">
-      <ul class="navbar-nav ml-2 ">
+      <ul class="navbar-nav ml-auto ">
         <li class="nav-item d-none d-lg-block">
           <a href="#home" class="nav-link">Home<i class="fas fa-arrow-alt-circle-right d-none ml-3"></i></a>
         </li>
