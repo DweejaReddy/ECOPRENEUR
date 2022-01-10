@@ -115,8 +115,7 @@ data-aos-duration="2000" href="register.php" target="_blank" role="button">Regis
     <!-- ABOUT -->
       <section class="d-block d-lg-none bg" id="about_mob" style="position: relative;margin-top: auto;">
         <div class="container about align-items-center my-5 py-4" style="width: 95vw;">
-          <div class="heading text-center" data-aos="fade-up"
-  data-aos-duration="2000">ABOUT THE EVENT</div>
+          <div class="heading text-center">ABOUT THE EVENT</div>
           <div class="row align-items-center">
             <div class="col-lg-4 col-12 text-center"><img data-aos="fade-up"
   data-aos-duration="2000" style="background-color: #fff;border-radius: 20px;" src="img/logo.png" alt="" width="200px" ></div>
