@@ -246,7 +246,7 @@ display: inline;
     body{
         background-image: url('../img/home_mob.png');
         background-repeat: no-repeat;
-        background-size: 100vw 90vh;
+        background-size: 100vw 100vh;
         font-family: 'Lato',sans-serif;
     }
     .eco{
