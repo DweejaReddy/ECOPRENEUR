@@ -100,10 +100,10 @@
 <!-- HOME -->
 
     <section class="d-block d-lg-none mt-4" id="home_mob" >
-      <div class="text-center"><img src="img/eco.png" alt="" height="200vw"></div>
-      <div class="text-center" style="font-size:16vw;font-family: 'Bebas Neue', cursive;color: #316835;margin-top: -4vw;">ECOPRENEUR</div>
-      <div class="text-center px-2" style="margin: -4vw 18vw;color: #fff;background-color: #316835;font-size:2.5vw;">SUSTAIN THE FUTURE WITH INNOVATION</div>
-      <div class="text-center mt-4 mt-md-5" style="color: #316835;font-size: 3.2vw; margin: -4vw 18vw;">It aims to incise the sharp minds of NITIANs to explore the world of <span style="font-weight: 900;">ENVIRONMENTAL ENTREPRENEURSHIP</span></div>
+      <div class="text-center"><img src="img/eco.png" alt="" height="230vw"></div>
+      <div class="text-center" style="font-size:18vw;font-family: 'Bebas Neue', cursive;color: #316835;margin-top: -4vw;">ECOPRENEUR</div>
+      <div class="text-center px-2" style="margin: -4vw 18vw;color: #fff;background-color: #316835;font-size:3vw;">SUSTAIN THE FUTURE WITH INNOVATION</div>
+      <div class="text-center mt-4 mt-md-5" style="color: #316835;font-size: 3.4vw; margin: -4vw 18vw;">It aims to incise the sharp minds of NITIANs to explore the world of <span style="font-weight: 900;">ENVIRONMENTAL ENTREPRENEURSHIP</span></div>
       <div class="row align-items-center">
         <a class="btn btn1 py-2 mt-4 mt-md-5 col-5 " data-aos="fade-right"
 data-aos-duration="2000" href="img/Ecopreneur_brochure.pdf" target="_blank" role="button">Download Brochure</a>
