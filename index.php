@@ -117,8 +117,7 @@ data-aos-duration="2000" href="register.php" target="_blank" role="button">Regis
         <div class="container about align-items-center my-5 py-4" style="width: 95vw;">
           <div class="heading text-center">ABOUT THE EVENT</div>
           <div class="row align-items-center">
-            <div class="col-lg-4 col-12 text-center"><img data-aos="fade-up"
-  data-aos-duration="2000" style="background-color: #fff;border-radius: 20px;" src="img/logo.png" alt="" width="200px" ></div>
+            <div class="col-lg-4 col-12 text-center"><img style="background-color: #fff;border-radius: 20px;" src="img/logo.png" alt="" width="200px" ></div>
             <div class="col text-center para1" data-aos="fade-up"
   data-aos-duration="2000" style="font-size: 3.7vw;margin-top: 5vw;">It aims to incise the sharp minds of NITIANs to explore the world of <span style="font-weight: 900;">ENVIRONMENTAL ENTREPRENEURSHIP</span> by deducing a proper technical solution to an issue native to their institute's city and creating their own business model out of it. <br><br>Ecopreneur is chance to represent your NIT, it is an opportunity to solve a real world problem, a platform to represent a vision in front of notable people, a medium to win unimaginable prizes and recognition and a direction to maybe even get a fixed career path to follow out of the plan you create!</div>
             <div class="row text-center">
