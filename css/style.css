@@ -238,14 +238,6 @@ display: inline;
   .foot1 {
     font-size: 1.3vw;
   }
-@media only screen and (min-width:1024px) and (max-width:1279px) {
-    .eco{
-        margin-top: 10vw;
-    }
-    .btn3{
-        margin-left: 45vw;
-    }
-}
 @media only screen and (max-width:1023px){
     html,
   body {
@@ -254,7 +246,7 @@ display: inline;
     body{
         background-image: url('../img/home_mob.png');
         background-repeat: no-repeat;
-        background-size: 100vw 100vh;
+        background-size: 100vw 120vh;
         font-family: 'Lato',sans-serif;
     }
     .eco{
