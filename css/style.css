@@ -117,11 +117,12 @@ display: inline;
 .heading {
     color: #316835;
     background-color: #fff;
-    font-size: 2.5vw;
+    background-size: auto;
     border-radius: 1vw;
     font-weight: 900;
-    position: relative;
-    margin:auto 30vw;
+    display: inline-block;
+    padding:0.5vw 1vw;
+    margin: auto;
     margin-bottom: 3vw;
   }
 .btn3{
@@ -298,7 +299,6 @@ display: inline;
     }
     .about{
         background-color: #316835;
-        /* height: 200vw; */
         height: auto;
         position: relative;
         border-radius: 40px;
@@ -306,14 +306,15 @@ display: inline;
         padding-top: 3vw;
     }
     .heading {
-        color: #316835;
-        background-color: #fff;
-        font-size: 4vw;
-        border-radius: 8px;
-        font-weight: 900;
-        position: relative;
-        margin:auto 15vw;
-        margin-bottom: 5vw;
+      color: #316835;
+      background-color: #fff;
+      background-size: auto;
+      border-radius: 1vw;
+      font-weight: 900;
+      display: inline-block;
+      padding:0.5vw 2.5vw;
+      margin: auto;
+      margin-bottom: 3vw;
       }
       .btn3{
         margin-left: 42vw;
