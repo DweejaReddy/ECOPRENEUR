@@ -18,7 +18,8 @@
     <!-- ABOUT -->
       <section class="d-none d-lg-block bg" id="about">
         <div class="container about align-items-center py-5">
-          <div class="heading text-center">ABOUT THE EVENT</div>
+          <div class="text-center">
+            <h2 class="heading">ABOUT THE EVENT</h2></div>
           <div class="row align-items-center">
             <div class="col-1"></div>
             <div class="col-4"><img data-aos="fade-right"
@@ -34,8 +35,9 @@
 
         <!-- STRUCTURE -->
         <div class="container align-items-center d-lg-block d-none" id="struct">
-          <div class="heading text-center px-4 my-4" data-aos="fade-down"
-  data-aos-duration="2000">EVENT STRUCTURE</div>
+          <div class="text-center">
+          <h2 class="heading" data-aos="fade-down"
+  data-aos-duration="2000">EVENT STRUCTURE</h2></div>
 
 
 
@@ -82,14 +84,15 @@
 
         <!-- ASSOCIATION -->
         <div class="container about align-items-center my-5 py-5 d-none d-lg-block" style="height: auto;" >
-          <div class="heading text-center" data-aos="fade-down"
-  data-aos-duration="2000">ASSOCIATION</div>
+          <div class="text-center">
+          <h2 class="heading" data-aos="fade-down"
+  data-aos-duration="2000">ASSOCIATION</h2></div>
           <div class="row align-items-center">
             <div class="col-1"></div>
             <div class="col-4"><img data-aos="fade-right"
   data-aos-duration="2000" style="background-color:#fff;border-radius: 20px; padding:5vw 2vw;" src="img/pnaf.jpg" alt="" width="300px" ></div>
             <div class="col-6 text-left para1" style="margin: auto;" data-aos="fade-left"
-  data-aos-duration="2000">Ecopreneur is proudly conducted in association with the PAN NIT ALUMNI FORUM(PNAF), an umbrella organization, covering alumni associations and thereby alumni of all NITs, to evolve a brand "NIT" that would provide strong fraternity.<br><br> PNAF and E-CELL VNIT share common interests like innovation and entrepreneurship along with holistic development for responsible citizens</div>
+  data-aos-duration="2000">Ecopreneur is proudly conducted in association with the PAN NIT ALUMNI FORUM(PNAF), an umbrella organization, covering alumni associations and thereby alumni of all NITs, to evolve a brand "NIT" that would provide strong fraternity.<br><br> PNAF and E-CELL VNIT share common interests like innovation and entrepreneurship along with holistic development for responsible citizens.</div>
           </div>
        
       </section>
@@ -115,7 +118,8 @@ data-aos-duration="2000" href="register.php" target="_blank" role="button">Regis
     <!-- ABOUT -->
       <section class="d-block d-lg-none bg" id="about_mob" style="position: relative;margin-top: auto;">
         <div class="container about align-items-center my-5 py-4" style="width: 95vw;">
-          <div class="heading text-center">ABOUT THE EVENT</div>
+          <div class="text-center">
+          <h4 class="heading">ABOUT THE EVENT</h4></div>
           <div class="row align-items-center">
             <div class="col-lg-4 col-12 text-center"><img style="background-color: #fff;border-radius: 20px;" src="img/logo.png" alt="" width="200px" ></div>
             <div class="col text-center para1" data-aos="fade-up"
@@ -131,8 +135,9 @@ data-aos-duration="2000" href="register.php" target="_blank" role="button">Regis
 
       <!-- STRUCTURE -->
         <div class="container align-items-center d-block d-lg-none" id="struct_mob">
-          <div class="heading text-center" data-aos="fade-up"
-  data-aos-duration="2000">EVENT STRUCTURE</div>
+          <div class="text-center">
+          <h4 class="heading" data-aos="fade-up"
+  data-aos-duration="2000">EVENT STRUCTURE</h4></div>
           <div class="row align-items-center my-4">
             <div class="col-1">
               <img src="img/circle.png" alt="">
@@ -177,13 +182,14 @@ data-aos-duration="2000" href="register.php" target="_blank" role="button">Regis
 
         <!-- ASSOCIATION -->
         <div class="container about1 align-items-center d-lg-none d-block py-4 my-5" style="width: 95vw;">
-          <div class="heading text-center" data-aos="fade-up"
-  data-aos-duration="2000">ASSOCIATION</div>
+          <div class="text-center">
+          <h4 class="heading" data-aos="fade-up"
+  data-aos-duration="2000">ASSOCIATION</h4></div>
           <div class="row align-items-center">
             <div class="col-lg-4 text-center"><img data-aos="fade-up"
   data-aos-duration="2000" style="background-color: #fff;border-radius: 20px;padding: 7vw 4vw;" src="img/pnaf.jpg" alt="" width="200vw" ></div>
             <div class="col text-center para1" data-aos="fade-up"
-  data-aos-duration="2000" style="font-size: 3.7vw;margin-top:7vw;">Ecopreneur is proudly conducted in association with the PAN NIT ALUMNI FORUM(PNAF), an umbrella organization, covering alumni associations and thereby alumni of all NITs, to evolve a brand "NIT" that would provide strong fraternity.<br><br> PNAF and E-CELL VNIT share common interests like innovation and entrepreneurship along with holistic development for responsible citizens</div>
+  data-aos-duration="2000" style="font-size: 3.7vw;margin-top:7vw;">Ecopreneur is proudly conducted in association with the PAN NIT ALUMNI FORUM(PNAF), an umbrella organization, covering alumni associations and thereby alumni of all NITs, to evolve a brand "NIT" that would provide strong fraternity.<br><br> PNAF and E-CELL VNIT share common interests like innovation and entrepreneurship along with holistic development for responsible citizens.</div>
         </div>
         </div>
       </section>
